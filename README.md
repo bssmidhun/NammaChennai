@@ -1,2 +1,2 @@
-# NammaChennai
-A website about NammaChennai
+# NammaBangalore
+A website about NammaBangalore
